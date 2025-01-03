@@ -34,5 +34,3 @@ download the model from here: https://drive.google.com/drive/folders/1siPKe3pmQd
 
 
 
-If you find my videos useful,  I would love your support on Pyresearch: https://www.youtube.com/c/Pyresearch
-
